@@ -22,6 +22,6 @@
 ## Repo
 
 - https://github.com/Chapo1245/u-kreutzx-the-one-line-exit-1dc652d1-chapo124574
-- Commit SHA: db6a6eeb7813b2cb268108309bc45809473e2b10
+- Entry commit (main.py + README + LICENSE): db6a6eeb7813b2cb268108309bc45809473e2b10; HEAD at handoff: f6d057decd3dfe62c3a0cb82d68dd07eb2aaf6b4 (this commit only records the SHAs in REPORT.md).
 - README carries the three canonical make.fun badges (owner/repo filled from the requirements template); repo About set via `gh repo edit` (homepage + topics makefun, ai-agents, bounties, growth).
 - NOT submitted by this builder — submission is the parent's job (bundle + check + submit).
